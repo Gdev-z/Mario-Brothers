@@ -140,4 +140,7 @@ textarea{
         align-items: center;
         flex-direction: column;
     }
+    .imagem-mario-luigi{
+        width: 80vw;
+    }
 }
