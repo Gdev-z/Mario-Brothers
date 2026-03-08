@@ -1,2 +1,2 @@
 # Mario-Brothers
-Site feito utilizando HTML, CSS, JAVASCRIPT
+Estudos do Devclub aprendido com professor Rodolfo Mori utilizando HTML, CSS, JAVASCRIPT
